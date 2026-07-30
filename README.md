@@ -122,5 +122,5 @@ Le notebook `raidium.ipynb` s'exécute sur Colab (GPU T4) : chargement → métr
 
 ---
 
-**Contact** — `<nom>` · `<email>` · `<LinkedIn>`
+**Contact** — thilleli1rs@gmail.com
 Training	250 epochs, T4 GPU
